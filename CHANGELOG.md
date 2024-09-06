@@ -1,0 +1,22 @@
+- readme
+- updated
+- Merge pull request #11 from HackerUSA-CE/dep-update
+- update deps correctly
+- update dependencies
+- Create LICENSE
+- use function declaration
+- Update GalleryItem.js
+- use function declaration
+- removed unnecessary file
+- names up to date
+- updated variable names
+- updated comment on main branch
+- updated app...
+- fetch refactored to use async await
+- removed readme content
+- all updated with correct names
+- added more deets
+- functionality done
+- light err handling
+- initial commit, most work done
+- Initialize project using Create React App
